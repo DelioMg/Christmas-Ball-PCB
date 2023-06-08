@@ -1,4 +1,4 @@
-# Projeto do GitHub: Christmas Ball PCB
+# Christmas Ball PCB
 
 ## Descrição do Projeto
 
