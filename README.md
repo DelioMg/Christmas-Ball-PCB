@@ -23,3 +23,7 @@ A placa inclui os seguintes elementos:
 - Acabamento de superfície: HASL com chumbo.
 
 ## Imagens
+
+<p align="center"><img src="Imagens/bola.png" width="600px" /></p>
+<p align="center"><img src="Imagens/bolat.png" width="600px" /></p>
+<p align="center"><img src="Imagens/sbolatest.bmp" width="600px" /></p>
