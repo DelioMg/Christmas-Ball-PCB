@@ -26,4 +26,4 @@ A placa inclui os seguintes elementos:
 
 <p align="center"><img src="Imagens/bola.png" width="600px" /></p>
 <p align="center"><img src="Imagens/bolat.png" width="600px" /></p>
-<p align="center"><img src="Imagens/sbolatest.bmp" width="600px" /></p>
+<p align="center"><img src="Imagens/bolates.png" width="600px" /></p>
